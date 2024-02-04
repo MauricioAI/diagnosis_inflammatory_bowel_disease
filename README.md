@@ -1,7 +1,9 @@
-It is suggested that the following works be cited with the use of this repository:
+**It is suggested that the following works be cited with the use of this repository:**
 
-  [1] Maurício, J., Domingues, I. Distinguishing between Crohn’s disease and ulcerative colitis using deep learning models with interpretability. Pattern Anal Applic (2024).
+  [1] Maurício, J., Domingues, I. Distinguishing between Crohn’s disease and ulcerative colitis using deep learning models with interpretability. Pattern Anal Applic (2024)
+  
   [2] Maurício, J., Domingues, I. (2024). Knowledge Distillation of Vision Transformers and Convolutional Networks to Predict Inflammatory Bowel Disease. In: Vasconcelos, V., Domingues, I., Paredes, S. (eds) Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications. CIARP 2023. Lecture Notes in Computer Science, vol 14469. Springer, Cham. https://doi.org/10.1007/978-3-031-49018-7_27.
+  
   [3] Maurício, J., Domingues, I. (2023). Deep Neural Networks to Distinguish Between Crohn’s Disease and Ulcerative Colitis. In: Pertusa, A., Gallego, A.J., Sánchez, J.A., Domingues, I. (eds) Pattern Recognition and Image Analysis. IbPRIA 2023. Lecture Notes in Computer Science, vol 14062. Springer, Cham. https://doi.org/10.1007/978-3-031-36616-1_42
 
 @article{mauricio2024distinguishing,
